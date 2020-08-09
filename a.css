@@ -1,0 +1,48 @@
+#ff{
+	padding-right: 20px;
+	display: inline-block;
+	width: 25%;
+	padding-bottom: 50px;
+
+}
+
+#ab{
+	background-color: white;
+	width: 100%;
+
+}
+#a1{
+	padding-left: 100px;
+	position: inherit;
+
+}
+.fa{
+    padding-bottom: 0px;
+}
+#bb{
+	border: 2px solid black;
+}
+#tb{
+	font-weight: 600;
+	font-size: 20px;
+	font-style: oblique;
+}
+.list{
+	font-size: 20px;
+	font-weight: 600;
+}
+
+div.faisal{
+	border: 1px solid black;
+}
+div.faisal:hover{
+	border: 3px solid black;
+}
+body{
+	background-color: #ccffdd;
+}
+.sl{
+	font-weight: 700;
+	margin-bottom: 100px;
+	font-style: oblique;
+}
